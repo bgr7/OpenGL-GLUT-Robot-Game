@@ -1,7 +1,7 @@
 # Robot Game
 
 ## Screenshots and Gameplay
-![Alt Text](https://github.com/bgr7/OpenGL-GLUT-Robot-Game/blob/cf8d7c6aa7844aa1aba6cbec66f2737ac627a09f/RobotGamess/robot.gif)
+
 ![MacDown Screenshot](https://github.com/bgr7/OpenGL-GLUT-Robot-Game/blob/cf8d7c6aa7844aa1aba6cbec66f2737ac627a09f/RobotGamess/ss1.png)
 ![MacDown Screenshot](https://github.com/bgr7/OpenGL-GLUT-Robot-Game/blob/cf8d7c6aa7844aa1aba6cbec66f2737ac627a09f/RobotGamess/ss2.png)
 ![MacDown Screenshot](https://github.com/bgr7/OpenGL-GLUT-Robot-Game/blob/cf8d7c6aa7844aa1aba6cbec66f2737ac627a09f/RobotGamess/ss3.png)
